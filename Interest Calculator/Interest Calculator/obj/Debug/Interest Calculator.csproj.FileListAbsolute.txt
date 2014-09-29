@@ -1,0 +1,45 @@
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Form1.resources
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+F:\Microsoft Visual Studio Programs\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojResolveAssemblyReference.cache
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.interestCalculatorForm.resources
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+E:\soft\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.Cache
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojResolveAssemblyReference.cache
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.interestCalculatorForm.resources
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+D:\Softwares\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.Cache
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojResolveAssemblyReference.cache
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.interestCalculatorForm.resources
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+H:\My Computer\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.Cache
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojResolveAssemblyReference.cache
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.interestCalculatorForm.resources
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+F:\Gallery\Basis\OnlineOffline\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.Cache
